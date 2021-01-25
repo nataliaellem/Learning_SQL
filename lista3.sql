@@ -1,5 +1,4 @@
---Nome: Natália Ellem Moreira
---Turma: Módulo 2 subsequente
+﻿--LISTA 3 BD
 
 
 --Criando o banco de dados, as tabelas e inserindo dados

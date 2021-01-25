@@ -1,5 +1,4 @@
-﻿-- Nome: Natália Ellem Moreira
--- Turma: Módulo 2 subsequente
+﻿-- LISTA 1 INTRODUÇÃO A BANCO DE DADOS
 
 
 

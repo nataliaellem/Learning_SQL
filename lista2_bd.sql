@@ -1,5 +1,4 @@
-﻿--Nome: Natália Ellem Moreira
---Turma: Módulo 2 Subsequente 
+﻿--LISTA 2 BD
 
 ----------------------------------------------------
 ------------------ EXERCÍCIO 1 ---------------------
